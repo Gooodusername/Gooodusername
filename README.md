@@ -1,5 +1,5 @@
 <h1 align="center">👋 Good Morning</h1>
-<h3 align="center">The owner is lazy and leave nothing</h3>
+<h3 align="center">The owner is lazy and leaves nothing</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gooodusername" alt="gooodusername" /></a> </p>
 
