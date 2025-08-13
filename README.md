@@ -1,9 +1,8 @@
 <h1 align="center">👋 Good Morning</h1>
-<h3 align="center">Nothing at all</h3>
+<h3 align="center">The owner is lazy and leave nothing</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gooodusername" alt="gooodusername" /></a> </p>
 
-<h3 align="left">Connect with me:(It's better not to contact me, I know nothing.)</h3>
 <p align="left">
 </p>
 
